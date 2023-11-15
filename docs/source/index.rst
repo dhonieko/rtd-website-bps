@@ -8,10 +8,11 @@ Contents
 
    usage
    api
+   Project setup and configuration </guides/setup/index>
+   Beranda </menu/beranda>
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption:  Menu Utama
 
    Project setup and configuration </guides/setup/index>
