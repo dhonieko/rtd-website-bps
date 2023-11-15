@@ -1,2 +1,2 @@
-Dokumentasi Penggunaan Website Badan Pusat Statistik
-====================================================
+Website Badan Pusat Statistik
+=============================
