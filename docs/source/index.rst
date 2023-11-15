@@ -8,8 +8,8 @@ Contents
 
    usage
    api
-   Project setup and configuration </guides/setup/index>
    Beranda </menu/beranda>
+   produk
 
 .. toctree::
    :maxdepth: 2
