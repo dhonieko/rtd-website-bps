@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Website BPS'
+copyright = '2023, Tim Pengemasan Informasi Statistik'
+author = 'Tim Pengemasan Informasi Statistik - Badan Pusat Statistik'
 
 release = '0.1'
 version = '0.1.0'
