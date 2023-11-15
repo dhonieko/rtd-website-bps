@@ -1,17 +1,13 @@
 Website Badan Pusat Statistik (BPS)
 =============================
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: 🚀 Tutorials
+Contents
+--------
 
-   /tutorial/index
-   /intro/getting-started-with-sphinx
-   /intro/getting-started-with-mkdocs
-   /intro/import-guide
-   /config-file/index
-   /examples
+.. toctree::
+
+   usage
+   api
 
 .. toctree::
    :maxdepth: 2
