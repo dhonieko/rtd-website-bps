@@ -1,16 +1,1 @@
-Pada Website Badan Pusat Statistik terdapat 5 menu utama dan beberapa turunannya, dimana hierarki nya sebagai berikut :
-- Beranda
-- Rencana Terbit
-- Produk
-    - Publikasi
-    - Berita Resmi Statistik
-    - Statistik Menurut Subjek
-    - Data Ekspor Impor
-    - Infografis
-    - Berita
-- Layanan
-- Informasi Publik
-    - Tentang Kami
-    - PPID
-    - Layanan
-    - Pengaduan
+Beranda
