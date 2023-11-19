@@ -1,6 +1,6 @@
 Website Badan Pusat Statistik (BPS)
 =============================  
-.. figure:: /_static/images/beranda1.png
+.. figure:: /_static/images/indikator-strategis.png
    :width: 80%
    :align: center
    :alt: Website Badan Pusat Statistik
