@@ -1,33 +1,33 @@
 Beranda
-=====
+=======
+Halaman beranda merupakan halaman utama Website Badan Pusat Statistik. Pada halaman beranda ditampilkan beberapa informasi dalam bentuk panel panel, diantaranya :
 
-.. _installation:
+Form pencarian data
+-------------------
 
-Installation
-------------
+Indikator strategis
+-------------------
 
-To use Lumache, first install it using pip:
+Informasi terbaru
+-----------------
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
+Subjek statistik
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Ringkasan berita kegiatan
+-------------------------
 
-.. autofunction:: lumache.get_random_ingredients
+Banner
+------
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+Jadwal jumpa pers / pers release
+--------------------------------
 
-.. autoexception:: lumache.InvalidKindError
+Videografis
+-----------
 
-For example:
+Layanan BPS
+-----------
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+Fakta BPS
+---------
