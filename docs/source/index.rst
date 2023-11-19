@@ -8,6 +8,9 @@ Daftar Isi
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Layout Website
 
    menu/index
    feedback
