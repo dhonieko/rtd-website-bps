@@ -9,7 +9,8 @@ Daftar Isi
 
 .. toctree::
 
-   usage
-   api
-   menu/beranda
-   produk
+   menu/index
+   feedback
+   accessibility
+   livechat
+   media-sosial
