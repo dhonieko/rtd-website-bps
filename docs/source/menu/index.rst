@@ -10,6 +10,7 @@ Rencana Terbit
 --------------
 menu rencana terbit
 
+.. produk:
 Produk
 ------
 menu produk
