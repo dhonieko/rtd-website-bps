@@ -13,10 +13,10 @@ Rencana Terbit
 (gambar rencana terbit)
 Menu rencana terbit merupakan menu yang berisi informasi tanggal/jadwal rilis dari Berita Resmi Stastistik(BRS) dan Publikasi. Jadwal rilis disajikan dalam bentuk kalender, daftar, maupun matrik yang dapat mempermudah pengguna dalam memahami kapan konten BRS dan Publikasi dirilis.
 
-.. produk:
 Produk
 ------
 Menu produk digunakan untuk menampilkan seluruh produk statistik hasil dari kegiatan yang dilakukan oleh BPS. Pada menu produk statistik terdapat beberapa submenu yang mendeskripsikan masing masing produk statistik. Produk statistik tersebut diantaranya Publikasi, Berita Resmi Statistik, Statistik menurut Subjek, Data Sensus, Data Ekspor Impor, Direktori, Infografis, Berita, Metadata. 
+⏩️ :doc:`Publikasi </produk/publikasi>`
 
 Layanan
 -------
