@@ -2,38 +2,30 @@ Produk Statistik
 ================
 Produk statistik diantaranya :
 
-Publikasi
----------
-Publikasi adalah
 
-Berita Resmi Statistik
-----------------------
-Berita Resmi Statistik adalah
+⏩️ :doc:`Publikasi </produk/publikasi>`
+    Publikasi adalah
 
-Statistik menurut Subjek
-------------------------
-Statistik menurut subjek adalah
+⏩️ :doc:`Berita Resmi Statistik </produk/berita-resmi-statistik>`
+    Berita Resmi Statistik adalah
 
-Data Sensus
------------
-Data sensus adalah
+⏩️ :doc:`Statistik menurut Subjek </produk/statistik-menurut-subjek>`
+    Statistik menurut subjek adalah
 
-Data Ekspor Impor
------------------
-Data Ekspor Impor adalah
+⏩️ :doc:`Data Sensus </produk/data-sensus>`
+    Data sensus adalah
 
-Direktori
----------
-Direktori adalah
+⏩️ :doc:`Data Ekspor Impor </produk/data-ekspor-impor>`
+    Data Ekspor Impor adalah
 
-Infografis
-----------
-Infografis adalah 
+⏩️ :doc:`Direktori </produk/direktori>`
+    Direktori adalah
 
-Berita
-------
-Berita adalah 
+⏩️ :doc:`Infografis </produk/infografis>`
+    Infografis adalah 
 
-Metadata
---------
-Metadata adalah
+⏩️ :doc:`Berita </produk/berita>`
+    Berita adalah 
+
+⏩️ :doc:`Metadata </produk/metadata>`
+    Metadata adalah
