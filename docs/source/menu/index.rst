@@ -61,3 +61,19 @@ Menu layanan pada Website BPS merupakan tautan yang mengarahkan pengguna pada we
 Informasi Publik
 ----------------
 Menu informasi publik dikhususkan untuk menampilkan informasi yang secara khusus untuk pengguna secara publik. Pada menu informasi publik terdapat beberapa submenu diantaranya Tentang Kami, PPID, Infomasi Layanan dan Pengaduan.
+
+Tentang Kami
+~~~~~~~~~~~~
+    Tentang Kami
+
+PPID
+~~~~~~~~~~~~
+    PPID
+
+Informasi Layanan
+~~~~~~~~~~~~
+    Informasi Layanan
+
+Pengaduan
+~~~~~~~~~~~~
+    Pengaduan
