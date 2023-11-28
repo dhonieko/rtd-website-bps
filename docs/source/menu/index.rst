@@ -17,6 +17,26 @@ Produk
 ------
 Menu produk digunakan untuk menampilkan seluruh produk statistik hasil dari kegiatan yang dilakukan oleh BPS. Pada menu produk statistik terdapat beberapa submenu yang mendeskripsikan masing masing produk statistik. Produk statistik tersebut diantaranya Publikasi, Berita Resmi Statistik, Statistik menurut Subjek, Data Sensus, Data Ekspor Impor, Direktori, Infografis, Berita, Metadata. 
 
+Publikasi
+~~~~~~~~~
+    publikasi adalah
+
+Berita Resmi Statistik
+~~~~~~~~~~~~~~~~~~~~~~~
+    Berita Resmi Statistik adalah
+
+Statistik menurut Subjek
+~~~~~~~~~~~~~~~~~~~~~~~
+    Statistik menurut subjek adalah
+
+Data Sensus
+~~~~~~~~~~~
+    Data sensus adalah
+
+Data Ekspor Impor
+~~~~~~~~~~~~~~~~~
+    Data Ekspor Impor adalah
+
 ⏩️ :doc:`Produk Statistik </menu/produk>`
 
 Layanan
