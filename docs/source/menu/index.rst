@@ -8,6 +8,51 @@ Beranda
 (gambar beranda)
 Menu beranda merupakan menu awal atau pertama kali dibuka pada saat pengguna melakukan akses ke Website BPS. Pada halaman beranda ini merupakan ringkasan dari konten konten yang ada pada Website BPS. Pada halaman beranda secara sekilas menampilkan informasi terkini dari apa yang didiseminasikan oleh BPS. Beberapa informasi yang disajikan pada halaman beranda diantaranya Logo dan Nama Wilayah​, Running Text​, Pencarian Konten, Indikator Strategis​, Statistik Menurut Subjek​, Berita Kegiatan​, Informasi Terbaru​, Banner​, Videografis Youtube​, Produk Statistik Lainnya​, Layanan Lainnya​, Tahukah Anda​, Footer Website. 
 
+
+Form Pencarian
+~~~~~~~~~~~~~~~~~~~
+    Pencarian
+
+Indikator Strategis
+~~~~~~~~~~~~~~~~~~~
+    Indikator Strategis
+
+Informasi Terbaru
+~~~~~~~~~~~~~~~~~~~
+    Informasi Terbaru Berita Resmi Statistik, Tabel Statistik, Publikasi, Infografis
+
+Berita Kegiatan
+~~~~~~~~~~~~~~~
+    Berita Kegiatan
+
+Statistik menurut subjek
+~~~~~~~~~~~~~~~
+    Statistik menurut subjek
+
+Jadwal Jumpa Pers
+~~~~~~~~~~~~~~~
+    Jadwal Jumpa Pers
+
+Videografis
+~~~~~~~~~~~~~~~
+    Videografis
+
+Promosi
+~~~~~~~~~~~~~~~
+    Promosi
+
+Layanan Lainnya
+~~~~~~~~~~~~~~~
+    Layanan Lainnya
+
+Fakta Data
+~~~~~~~~~~~~~~~
+    Fakta Data
+
+Footer
+~~~~~~~~~~~~~~~
+    Footer
+
 Rencana Terbit
 --------------
 (gambar rencana terbit)
