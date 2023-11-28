@@ -37,7 +37,21 @@ Data Ekspor Impor
 ~~~~~~~~~~~~~~~~~
     Data Ekspor Impor adalah
 
-⏩️ :doc:`Produk Statistik </menu/produk>`
+Direktori
+~~~~~~~~~
+    Direktori adalah
+
+Infografis
+~~~~~~~~~~
+    Infografis adalah 
+
+Berita
+~~~~~~
+    Berita adalah 
+
+Metadata
+~~~~~~~~
+    Metadata adalah
 
 Layanan
 -------
