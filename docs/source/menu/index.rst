@@ -145,15 +145,20 @@ Statistik menurut Subjek
     :align: center
     :alt: Statistik menurut Subjek
 
-.. figure:: /_static/images/detil-tabel-1.png
+.. figure:: /_static/images/tabel.png
     :width: 80%
     :align: center
-    :alt: Detil Tabel 1
+    :alt: Detil Tabel
 
-.. figure:: /_static/images/detil-tabel-2.png
+.. figure:: /_static/images/tabel-metadata.png
     :width: 80%
     :align: center
-    :alt: Detil Tabel 2
+    :alt: Metadata Tabel
+
+.. figure:: /_static/images/tabel-terkait.png
+    :width: 80%
+    :align: center
+    :alt: Metadata Tabel
 
 Data Sensus
 ~~~~~~~~~~~
