@@ -94,7 +94,10 @@ Footer
 
 Rencana Terbit
 --------------
-(gambar rencana terbit)
+.. figure:: /_static/images/arc-kalender.png
+    :width: 80%
+    :align: center
+    :alt: Rencana Terbit
 Menu rencana terbit merupakan menu yang berisi informasi tanggal/jadwal rilis dari Berita Resmi Stastistik(BRS) dan Publikasi. Jadwal rilis disajikan dalam bentuk kalender, daftar, maupun matrik yang dapat mempermudah pengguna dalam memahami kapan konten BRS dan Publikasi dirilis.
 
 Produk
@@ -103,61 +106,148 @@ Menu produk digunakan untuk menampilkan seluruh produk statistik hasil dari kegi
 
 Publikasi
 ~~~~~~~~~
-    publikasi adalah
+.. figure:: /_static/images/list-publikasi.png
+    :width: 80%
+    :align: center
+    :alt: List Publikasi
+
+.. figure:: /_static/images/list-publikasi-grid.png
+    :width: 80%
+    :align: center
+    :alt: Grid Publikasi
+
+.. figure:: /_static/images/view-publikasi.png
+    :width: 80%
+    :align: center
+    :alt: View Publikasi
 
 Berita Resmi Statistik
 ~~~~~~~~~~~~~~~~~~~~~~~
-    Berita Resmi Statistik adalah
+.. figure:: /_static/images/list-brs.png
+    :width: 80%
+    :align: center
+    :alt: List Berita Resmi Statistik
+
+.. figure:: /_static/images/list-brs-grid.png
+    :width: 80%
+    :align: center
+    :alt: Grid Berita Resmi Statistik
+
+.. figure:: /_static/images/detil-brs.png
+    :width: 80%
+    :align: center
+    :alt: Detil Berita Resmi Statistik
 
 Statistik menurut Subjek
 ~~~~~~~~~~~~~~~~~~~~~~~
-    Statistik menurut subjek adalah
+.. figure:: /_static/images/statistik-menurut-subjek.png
+    :width: 80%
+    :align: center
+    :alt: Statistik menurut Subjek
+
+.. figure:: /_static/images/detil-tabel-1.png
+    :width: 80%
+    :align: center
+    :alt: Detil Tabel 1
+
+.. figure:: /_static/images/detil-tabel-2.png
+    :width: 80%
+    :align: center
+    :alt: Detil Tabel 2
 
 Data Sensus
 ~~~~~~~~~~~
-    Data sensus adalah
+.. figure:: /_static/images/sensus.png
+    :width: 80%
+    :align: center
+    :alt: Data Sensus
 
 Data Ekspor Impor
 ~~~~~~~~~~~~~~~~~
-    Data Ekspor Impor adalah
+.. figure:: /_static/images/ekspor-impor.png
+    :width: 80%
+    :align: center
+    :alt: Data Ekspor Impor
 
 Direktori
 ~~~~~~~~~
-    Direktori adalah
+.. figure:: /_static/images/direktori.png
+    :width: 80%
+    :align: center
+    :alt: Data Direktori
 
 Infografis
 ~~~~~~~~~~
-    Infografis adalah 
+.. figure:: /_static/images/list-infografis.png
+    :width: 80%
+    :align: center
+    :alt: List Infografis
+
+.. figure:: /_static/images/detil-infografis.png
+    :width: 80%
+    :align: center
+    :alt: Detil Infografis
 
 Berita
 ~~~~~~
-    Berita adalah 
+.. figure:: /_static/images/berita-kegiatan.png
+    :width: 80%
+    :align: center
+    :alt: List Infografis
+
+.. figure:: /_static/images/detil-berita.png
+    :width: 80%
+    :align: center
+    :alt: Detil Infografis
 
 Metadata
 ~~~~~~~~
-    Metadata adalah
+.. figure:: /_static/images/metadata.png
+    :width: 80%
+    :align: center
+    :alt: Metadata
 
 Layanan
 -------
-(gambar PST)
+.. figure:: /_static/images/ost.png
+    :width: 80%
+    :align: center
+    :alt: Pelayanan Statistik Terpadu
+
 Menu layanan pada Website BPS merupakan tautan yang mengarahkan pengguna pada website Pelayanan Statistik Terpadu (PST). Pada Halaman PST berisi informasi mengenai berbagai layanan yang disediakan oleh BPS beserta informasi kontak yang dapat dihubungi.
 
 Informasi Publik
 ----------------
+.. figure:: /_static/images/ppid.png
+    :width: 80%
+    :align: center
+    :alt: PPID
 Menu informasi publik dikhususkan untuk menampilkan informasi yang secara khusus untuk pengguna secara publik. Pada menu informasi publik terdapat beberapa submenu diantaranya Tentang Kami, PPID, Infomasi Layanan dan Pengaduan.
 
 Tentang Kami
 ~~~~~~~~~~~~
-    Tentang Kami
+.. figure:: /_static/images/tentang-kami.png
+    :width: 80%
+    :align: center
+    :alt: Tentang Kami
 
 PPID
 ~~~~~~~~~~~~
-    PPID
+.. figure:: /_static/images/ppid.png
+    :width: 80%
+    :align: center
+    :alt: PPID
 
 Informasi Layanan
 ~~~~~~~~~~~~
-    Informasi Layanan
+.. figure:: /_static/images/layanan-bps.png
+    :width: 80%
+    :align: center
+    :alt: Informasi Layanan
 
 Pengaduan
 ~~~~~~~~~~~~
-    Pengaduan
+.. figure:: /_static/images/keberatan-informasi.png
+    :width: 80%
+    :align: center
+    :alt: Informasi Layanan
