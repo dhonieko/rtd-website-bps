@@ -17,15 +17,24 @@ Menu beranda merupakan menu awal atau pertama kali dibuka pada saat pengguna mel
 
 Form Pencarian
 ~~~~~~~~~~~~~~~~~~~
-    Pencarian
+    .. figure:: /_static/images/bps.png
+   :width: 80%
+   :align: center
+   :alt: Form Pencarian
 
 Indikator Strategis
 ~~~~~~~~~~~~~~~~~~~
-    Indikator Strategis
+    .. figure:: /_static/images/bps.png
+   :width: 80%
+   :align: center
+   :alt: Indikator Stategis
 
 Informasi Terbaru
 ~~~~~~~~~~~~~~~~~~~
-    Informasi Terbaru Berita Resmi Statistik, Tabel Statistik, Publikasi, Infografis
+    .. figure:: /_static/images/informasi-terbaru.png
+   :width: 80%
+   :align: center
+   :alt: Indikator Stategis
 
 Berita Kegiatan
 ~~~~~~~~~~~~~~~
