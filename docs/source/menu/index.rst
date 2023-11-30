@@ -34,39 +34,63 @@ Informasi Terbaru
     .. figure:: /_static/images/informasi-terbaru.png
    :width: 80%
    :align: center
-   :alt: Indikator Stategis
+   :alt: Informasi Terbaru
 
 Berita Kegiatan
 ~~~~~~~~~~~~~~~
-    Berita Kegiatan
+    .. figure:: /_static/images/berita-kegiatan.png
+   :width: 80%
+   :align: center
+   :alt: Berita Kegiatan
 
-Statistik menurut subjek
+Statistik Menurut Subjek
 ~~~~~~~~~~~~~~~
-    Statistik menurut subjek
+    .. figure:: /_static/images/subjek-statistik.png
+   :width: 80%
+   :align: center
+   :alt: Statistik Menurut Subjek
 
 Jadwal Jumpa Pers
 ~~~~~~~~~~~~~~~
-    Jadwal Jumpa Pers
+    .. figure:: /_static/images/jumpa-pers.png
+    :width: 80%
+    :align: center
+    :alt: Jadwal Jumpa Pers
 
 Videografis
 ~~~~~~~~~~~~~~~
-    Videografis
+    .. figure:: /_static/images/videografis.png
+    :width: 80%
+    :align: center
+    :alt: Videografis
 
 Promosi
 ~~~~~~~~~~~~~~~
-    Promosi
+    .. figure:: /_static/images/promosi.png
+    :width: 80%
+    :align: center
+    :alt:  Promosi
 
 Layanan Lainnya
 ~~~~~~~~~~~~~~~
-    Layanan Lainnya
+    .. figure:: /_static/images/layanan-lainnya.png
+    :width: 80%
+    :align: center
+    :alt: Layanan Lainnya
 
 Fakta Data
 ~~~~~~~~~~~~~~~
-    Fakta Data
+    .. figure:: /_static/images/fakta-data.png
+    :width: 80%
+    :align: center
+    :alt: Fakta Data
 
 Footer
 ~~~~~~~~~~~~~~~
-    Footer
+    .. figure:: /_static/images/footer.png
+    :width: 80%
+    :align: center
+    :alt: Footer
 
 Rencana Terbit
 --------------
