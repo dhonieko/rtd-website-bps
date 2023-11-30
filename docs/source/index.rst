@@ -20,9 +20,3 @@ Daftar Isi
    accessibility
    livechat
    media-sosial
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Cara Mencari/Memperoleh Data BPS
-
-   cara-memperoleh-data/index
