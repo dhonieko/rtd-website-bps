@@ -1,5 +1,9 @@
 Feedback
 ========
+.. figure:: /_static/images/feedback.png
+    :width: 80%
+    :align: center
+    :alt: Feedback
 
 Dalam dunia digital yang terus berkembang, Website BPS dapat dikatakan sukses bukan hanya tentang penampilan visualnya, tetapi juga melibatkan pengalaman interaktif yang baik bagi pengguna. Oleh karena itu, kami mengundang/mengajak pengguna untuk mendukung pengembangan dan perbaikan berkelanjutan pada Website BPS.
 

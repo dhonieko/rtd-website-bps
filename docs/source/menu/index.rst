@@ -250,4 +250,4 @@ Pengaduan
 .. figure:: /_static/images/keberatan-informasi.png
     :width: 80%
     :align: center
-    :alt: Informasi Layanan
+    :alt: Pengaduan
