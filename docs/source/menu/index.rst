@@ -17,77 +17,77 @@ Menu beranda merupakan menu awal atau pertama kali dibuka pada saat pengguna mel
 
 Form Pencarian
 ~~~~~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/bps.png
+.. figure:: /_static/images/bps.png
    :width: 80%
    :align: center
    :alt: Form Pencarian
 
 Indikator Strategis
 ~~~~~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/bps.png
+.. figure:: /_static/images/bps.png
    :width: 80%
    :align: center
    :alt: Indikator Stategis
 
 Informasi Terbaru
 ~~~~~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/informasi-terbaru.png
+.. figure:: /_static/images/informasi-terbaru.png
    :width: 80%
    :align: center
    :alt: Informasi Terbaru
 
 Berita Kegiatan
 ~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/berita-kegiatan.png
+.. figure:: /_static/images/berita-kegiatan.png
    :width: 80%
    :align: center
    :alt: Berita Kegiatan
 
 Statistik Menurut Subjek
 ~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/subjek-statistik.png
+.. figure:: /_static/images/subjek-statistik.png
    :width: 80%
    :align: center
    :alt: Statistik Menurut Subjek
 
 Jadwal Jumpa Pers
 ~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/jumpa-pers.png
+.. figure:: /_static/images/jumpa-pers.png
     :width: 80%
     :align: center
     :alt: Jadwal Jumpa Pers
 
 Videografis
 ~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/videografis.png
+.. figure:: /_static/images/videografis.png
     :width: 80%
     :align: center
     :alt: Videografis
 
 Promosi
 ~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/promosi.png
+.. figure:: /_static/images/promosi.png
     :width: 80%
     :align: center
     :alt:  Promosi
 
 Layanan Lainnya
 ~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/layanan-lainnya.png
+.. figure:: /_static/images/layanan-lainnya.png
     :width: 80%
     :align: center
     :alt: Layanan Lainnya
 
 Fakta Data
 ~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/fakta-data.png
+.. figure:: /_static/images/fakta-data.png
     :width: 80%
     :align: center
     :alt: Fakta Data
 
 Footer
 ~~~~~~~~~~~~~~~
-    .. figure:: /_static/images/footer.png
+.. figure:: /_static/images/footer.png
     :width: 80%
     :align: center
     :alt: Footer
