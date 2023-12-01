@@ -4,6 +4,7 @@ Menu Utama
    :width: 80%
    :align: center
    :alt: Website Badan Pusat Statistik
+
 Pada dasarnya, informasi yang tersedia di Website BPS (yang selanjutnya disebut sebagai "Konten") terbagi atas berita resmi statistik, statistik menurut subjek, publikasi , berita kegiatan, dan infografis. Website BPS disajikan dalam 2 (dua) bahasa, yaitu Indonesia dan Inggris. Secara keseluruhan konten website BPS dapat diakses pada menu utama yang terletak pada bagian atas website, yang terdiri atas : 
 
 Beranda
@@ -12,6 +13,8 @@ Beranda
    :width: 80%
    :align: center
    :alt: Beranda Website Badan Pusat Statistik
+
+
 Menu beranda merupakan menu awal atau pertama kali dibuka pada saat pengguna melakukan akses ke Website BPS. Pada halaman beranda ini merupakan ringkasan dari konten konten yang ada pada Website BPS. Pada halaman beranda secara sekilas menampilkan informasi terkini dari apa yang didiseminasikan oleh BPS. Beberapa informasi yang disajikan pada halaman beranda diantaranya Logo dan Nama Wilayah​, Running Text​, Pencarian Konten, Indikator Strategis​, Statistik Menurut Subjek​, Berita Kegiatan​, Informasi Terbaru​, Banner​, Videografis Youtube​, Produk Statistik Lainnya​, Layanan Lainnya​, Tahukah Anda​, Footer Website. 
 
 
