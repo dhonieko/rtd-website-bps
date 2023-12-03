@@ -279,14 +279,17 @@ Berita
 .. figure:: /_static/images/berita-kegiatan.png
     :width: 80%
     :align: center
-    :alt: List Infografis
+    :alt: List Berita
+
+
+Halaman berita pada website BPS menampilkan informasi berita kegiatan baik itu kegiatan statistik maupun kegiatan lain yang dilakukan oleh BPS. Pada halaman ini pertama kali pengguna akan disajikan list atau daftar berita yang disajikan berdasarkan tanggal terbaru. Pada halaman ini pengguna juga dapat melakukan pencarian berita sesuai dengan keinginan pengguna. Disetiap daftar berita yang ditampilkan memuat judul berita, tanggal update dan beberapa cuplikan dari abstraksi berita. Untuk informasi lebih lengkap dari berita pengguna dapat melakukan klik pada berita yang ingin didapatkan informasi lengkapnya.
 
 .. figure:: /_static/images/detil-berita.png
     :width: 80%
     :align: center
-    :alt: Detil Infografis
+    :alt: Detil Berita
 
-Pada halaman detil berita,
+Pada halaman detil berita disajikan narasi lengkap dari berita kegiatan. Pada halaman ini juga disajikan beberapa berita terkait dengan berita yang sedang dibuka.
 
 Metadata
 ~~~~~~~~
