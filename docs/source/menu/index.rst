@@ -134,7 +134,22 @@ Rencana Terbit
     :width: 80%
     :align: center
     :alt: Rencana Terbit
+
 Menu rencana terbit merupakan menu yang berisi informasi tanggal/jadwal rilis dari Berita Resmi Stastistik(BRS) dan Publikasi. Jadwal rilis disajikan dalam bentuk kalender, daftar, maupun matrik yang dapat mempermudah pengguna dalam memahami kapan konten BRS dan Publikasi dirilis.
+
+.. figure:: /_static/images/arc-list.png
+    :width: 80%
+    :align: center
+    :alt: Daftar Rencana Terbit
+
+Tampilan rencana terbit yang disajikan dalam bentuk daftar.
+
+.. figure:: /_static/images/arc-matrik.png
+    :width: 80%
+    :align: center
+    :alt: Matrik Rencana Terbit
+
+Tampilan rencana terbit yang disajikan dalam bentuk matrik.
 
 Produk
 ------
@@ -147,15 +162,21 @@ Publikasi
     :align: center
     :alt: List Publikasi
 
+Salah satu produk statistik yang disajikan pada website adalah Publikasi. Publikasi yang disajikan pada website BPS merupakan hasil penyelenggaraan kegiatan statistik yang dilaksanakan oleh BPS, baik melalui sensus, survei maupun kompilasi produk administrasi. Pada setiap publikasi yang disajikan menampilkan informasi judul, tanggal rilis, dan abstraksi publikasi. Pada halaman ini juga disediakan fitur untuk melakukan pemilahan guna mempermudah pengguna dalam melakukan pencarian publikasi. Tampilan yang disajikan pada halaman ini dapat diubah sesuai dengan keinginan pengguna antara bentuk list view ataupun grid view. Pada salah satu publikasi ketika di klik akan menampilkan detil dari publikasi tersebut, dimana terdapat beberapa informasi tambahan yang disajikan pada halaman tersebut.
+
 .. figure:: /_static/images/list-publikasi-grid.png
     :width: 80%
     :align: center
     :alt: Grid Publikasi
 
+Tampilan grid view publikasi.
+
 .. figure:: /_static/images/view-publikasi.png
     :width: 80%
     :align: center
     :alt: View Publikasi
+
+Pada halaman view publikasi disajikan informasi tambahan berupa nomor katalog, nomor katalog, ISSN/ISBN, dan Ukuran File, serta link download untuk melakukan download publikasi.
 
 Berita Resmi Statistik
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -164,15 +185,21 @@ Berita Resmi Statistik
     :align: center
     :alt: List Berita Resmi Statistik
 
+Produk statistik lainnya yang disajikan pada website adalah Berita Resmi Statistik (BRS). BRS merupakan salah satu publikasi BPS, berisi Official Statistics yang memuat hasil sajian ringkas tentang fenomena yang berhubungan dengan statistik bidang ekonomi, bidang kesejahteraan rakyat, dan bidang-bidang lainnya.BRS diterbitkan secara periodik, baik itu bulanan, triwulanan, semesteran, maupun tahunan oleh BPS di seluruh Indonesia. Pada setiap BRS yang disajikan menampilkan informasi infografis, judul BRS, tanggal rilis, serta ringkasan abstraksi. Pada halaman ini juga disediakan fitur untuk melakukan pemilahan guna mempermudah pengguna dalam melakukan pencarian BRS. Tampilan yang disajikan pada halaman ini dapat diubah sesuai dengan keinginan pengguna antara bentuk list view ataupun grid view. Pada salah satu BRS ketika di klik akan menampilkan detil dari BRS tersebut, dimana terdapat beberapa informasi tambahan yang disajikan pada halaman tersebut.
+
 .. figure:: /_static/images/list-brs-grid.png
     :width: 80%
     :align: center
     :alt: Grid Berita Resmi Statistik
 
+Tampilan grid view berita resmi statistik.
+
 .. figure:: /_static/images/detil-brs.png
     :width: 80%
     :align: center
     :alt: Detil Berita Resmi Statistik
+
+Pada halaman view BRS disajikan informasi tambahan berupa ukuran file, jumlah hit, abstraksi lengkap, serta link untuk mendownload BRS, bahan tayang dan infografis dari BRS.
 
 Statistik menurut Subjek
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -181,20 +208,28 @@ Statistik menurut Subjek
     :align: center
     :alt: Statistik menurut Subjek
 
+Menu statistik menurut subjek merupakan pengembangan baru yang ada pada website, dimana pengelompokan subjek berdasarkan klasifikasi kegiatan statistik (Classification of Statistical Activities (CSA)). Klasifikasi kegiatan statistik mengacu pada kategorisasi dan pengorganisasian berbagai tugas atau kegiatan statistik yang dilakukan oleh badan atau organisasi statistik. Klasifikasi ini membantu dalam memahami dan mengelola beragam aktivitas statistik yang dilakukan untuk mengumpulkan, menganalisis, menafsirkan, dan menyebarkan data. Tujuannya adalah untuk menciptakan kerangka sistematis yang memfasilitasi koordinasi, kolaborasi, dan konsistensi dalam pekerjaan statistik.   
+ 
 .. figure:: /_static/images/tabel.png
     :width: 80%
     :align: center
     :alt: Detil Tabel
+
+Pada setiap subjek statistik memuat daftar tabel yang bersesuaian dengan klasifikasi. Pada setiap subjek ditampilkan daftar terupdate dari masing masing tabel. Pengguna dapat melakukan pencarian pada kolom pencarian tabel yang berada pada sisi kanan atas daftar tabel.
 
 .. figure:: /_static/images/tabel-metadata.png
     :width: 80%
     :align: center
     :alt: Metadata Tabel
 
+Pada setiap judul tabel yang ditayangkan pada daftar tabel dapat di klik untuk mendapatkan detail informasi tabelnya. Pada tabel juga disajikan informasi metadata yang bersesuaian dengan data/tabel yang disajikan.
+
 .. figure:: /_static/images/tabel-terkait.png
     :width: 80%
     :align: center
-    :alt: Metadata Tabel
+    :alt: Tabel Terkait
+
+Pada setiap data/tabel yang disajikan juga ditampilkan judul tabel yang bersesuaian dengan judul tabel yang desang dibuka.
 
 Data Sensus
 ~~~~~~~~~~~
@@ -203,12 +238,16 @@ Data Sensus
     :align: center
     :alt: Data Sensus
 
+Pada website ini menampilkan link ke website sensus, dimana pada website sensus menyajikan data data yang dihasilkan dari kegiatan sensus, baik sensus penduduk, sensus pertanian, dan sensus ekonomi
+
 Data Ekspor Impor
 ~~~~~~~~~~~~~~~~~
 .. figure:: /_static/images/ekspor-impor.png
     :width: 80%
     :align: center
     :alt: Data Ekspor Impor
+
+Data ekspor impor disajikan pada website BPS, informasi yang disajikan ketika pengguna mengunjungi halaman ini adalah agregat data ekspor impor bulanan terbaru, dan ringkasan ekspor impor untuk kode HS 2 digit. Pengguna dapat melakukan query pada kode HS tertentu baik menggunakan full kode HS ataupun hanya menggunakan kode HS 2 digit. 
 
 Direktori
 ~~~~~~~~~
@@ -217,6 +256,8 @@ Direktori
     :align: center
     :alt: Data Direktori
 
+Beberapa data direktori yang dihasilkan oleh BPS dapat dilihat pada menu ini, salah satu yang disajikan pada halaman ini adalah direktori pasar. Pada halaman direktori pasar, pengguna dapat mendapatkan informasi mengenai pasar yang ada di seluruh indonesia baik itu pasar tradisional maupun pasar modern.
+
 Infografis
 ~~~~~~~~~~
 .. figure:: /_static/images/list-infografis.png
@@ -224,10 +265,14 @@ Infografis
     :align: center
     :alt: List Infografis
 
+BPS setiap bulannya melakukan rilis BRS, dan pada BRS yang dirilis terdapat infografis yang ditampilkan. Infografis yang ditampilkan selain dapat dilihat dari menu BRS juga dapat dilihat pada menu infografis ini. Tampilan infografis disajikan dalam bentuk grid, pengguna juga dapat melakukan klik pada masing masing infografis untuk mendapatkan informasi detil infografis beserta dengan infografis yang bersesuaian.
+
 .. figure:: /_static/images/detil-infografis.png
     :width: 80%
     :align: center
     :alt: Detil Infografis
+
+Detil infografis dimunculkan pada halaman ini berupa modal popup. Berisi infografis dan beberapa infografis terkait.
 
 Berita
 ~~~~~~
@@ -241,12 +286,16 @@ Berita
     :align: center
     :alt: Detil Infografis
 
+Pada halaman detil berita,
+
 Metadata
 ~~~~~~~~
 .. figure:: /_static/images/metadata.png
     :width: 80%
     :align: center
     :alt: Metadata
+
+Submenu metadata pada website BPS merupakan link ke halaman website metadata. Metadata Statistik adalah informasi dalam bentuk struktur dan format yang baku untuk menggambarkan data, menjelaskan data, serta memudahkan pencarian, penggunaan, dan pengelolaan informasi data.
 
 Layanan
 -------
