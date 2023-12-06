@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
-=======================================
+User Manual Website Badan Pusat Statistik
+=========================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Website Badan Pusat Statistik (BPS) merupakan salah satu media yang digunakan untuk melakukan diseminasi data yang dihasilkan dari kegiatan sensus atau survey yang dilakukan oleh BPS.
