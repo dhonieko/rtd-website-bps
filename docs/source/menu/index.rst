@@ -302,7 +302,7 @@ Submenu metadata pada website BPS merupakan link ke halaman website metadata. Me
 
 Layanan
 -------
-.. figure:: /_static/images/ost.png
+.. figure:: /_static/images/pst.png
     :width: 80%
     :align: center
     :alt: Pelayanan Statistik Terpadu
