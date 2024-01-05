@@ -5,7 +5,7 @@ Feedback
     :align: center
     :alt: Feedback
 
-Dalam dunia digital yang terus berkembang, Website BPS dapat dikatakan sukses bukan hanya tentang penampilan visualnya, tetapi juga melibatkan pengalaman interaktif yang baik bagi pengguna. Oleh karena itu, kami mengundang/mengajak pengguna untuk mendukung pengembangan dan perbaikan berkelanjutan pada Website BPS.
+Di dunia digital yang terus berkembang, Website BPS dapat dikatakan sukses bukan hanya tentang penampilan visualnya, tetapi juga melibatkan pengalaman interaktif yang baik bagi pengguna. Oleh karena itu, kami mengundang/mengajak pengguna untuk mendukung pengembangan dan perbaikan berkelanjutan pada Website BPS.
 
 Pada halaman feedback ini, pengguna dapat menyampaikan mengenai pandangan, pengalaman, dan saran mereka secara langsung melalui form yang disediakan. Panduan pengisian form feedback sebagai berikut :
 
